@@ -1,0 +1,360 @@
+{
+  "generatedAt": "2026-09-02T13:49:09.821Z",
+  "sources": {
+    "The New York Times": 13,
+    "The Times & Sunday Times": 70
+  },
+  "count": 50,
+  "stories": [
+    {
+      "title": "Conservative Influencers Tap a Nonprofit to Pay for Their Security",
+      "url": "https://www.nytimes.com/2026/05/14/business/media/conservative-influencer-security.html",
+      "kicker": "",
+      "date": "2026-05-14",
+      "org": "The New York Times"
+    },
+    {
+      "title": "We Tried to Reach Gazans We Interviewed Over Two Years of War. Here’s What Happened to Them.",
+      "url": "https://www.nytimes.com/interactive/2025/10/06/world/middleeast/gaza-loss.html",
+      "kicker": "",
+      "date": "2025-10-06",
+      "org": "The New York Times"
+    },
+    {
+      "title": "An Extremely Detailed Map of the 2024 Election",
+      "url": "https://www.nytimes.com/interactive/2025/us/elections/2024-election-map-precinct-results.html",
+      "kicker": "",
+      "date": "2025-01-01",
+      "org": "The New York Times"
+    },
+    {
+      "title": "What Makes the U.K. Exit Poll So Trusted",
+      "url": "https://www.nytimes.com/2024/07/04/world/europe/uk-election-exit-poll.html",
+      "kicker": "",
+      "date": "2024-07-04",
+      "org": "The New York Times"
+    },
+    {
+      "title": "The Conservatives Have Run Britain for 14 Years. How Has That Worked Out?",
+      "url": "https://www.nytimes.com/interactive/2024/07/03/world/europe/uk-election-better-worse.html",
+      "kicker": "",
+      "date": "2024-07-03",
+      "org": "The New York Times"
+    },
+    {
+      "title": "America’s battle with gun violence in maps and charts",
+      "url": "https://www.thetimes.com/world/us-world/article/americas-battle-with-gun-violence-in-maps-and-charts-q9x5btttn",
+      "kicker": "EXPLAINER",
+      "date": "2023-02-14",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "10m on ‘hidden’ NHS waiting lists",
+      "url": "https://www.thetimes.com/uk/healthcare/article/nhs-waiting-lists-hiding-10m-patients-in-need-of-follow-up-care-d5shnhj3c",
+      "kicker": "HEALTH",
+      "date": "2022-08-29",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "Social mobility warning after the north-south grade divide widens",
+      "url": "https://www.thetimes.com/uk/education/article/social-mobility-warning-after-the-north-south-grade-divide-widens-mg8dvkj00",
+      "kicker": "A-LEVELS",
+      "date": "2022-08-18",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "A-level appeals loom as top grades fall",
+      "url": "https://www.thetimes.com/uk/education/article/a-level-results-day-2022-latest-9ppbnp8qp",
+      "kicker": "A-LEVELS",
+      "date": "2022-08-18",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "Which Tory leadership candidate do you support?",
+      "url": "https://www.thetimes.com/uk/politics/article/which-tory-leadership-candidate-do-you-support-xcpx0nw8w",
+      "kicker": "POLITICS | QUIZ",
+      "date": "2022-07-20",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "A week of political whiplash, and what’s coming next — explained in charts and graphs",
+      "url": "https://www.thetimes.com/uk/politics/article/boris-johnsons-resignation-the-chaos-explained-in-charts-and-graphs-w8pjtpfld",
+      "kicker": "VIDEO",
+      "date": "2022-07-08",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "Will a leaky school roof hand the Lib Dems Devon’s floating voters?",
+      "url": "https://www.thetimes.com/uk/education/article/tiverton-by-election-will-a-leaky-school-roof-hand-the-lib-dems-devons-floating-voters-f7mtnvjn3",
+      "kicker": "VIDEO",
+      "date": "2022-06-18",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "Airport crisis ‘a long time coming’ after operators culled industry",
+      "url": "https://www.thetimes.com/uk/politics/article/airport-crisis-has-been-a-long-time-coming-after-operators-culled-the-industry-n0lstgb80",
+      "kicker": "TRAVEL CHAOS",
+      "date": "2022-06-03",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "Huge rise in patients turning to private GPs",
+      "url": "https://www.thetimes.com/uk/healthcare/article/huge-rise-in-patients-turning-to-private-gps-b28jbc8xq",
+      "kicker": "HEALTH",
+      "date": "2022-05-27",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "How Macron won the French election in maps and charts",
+      "url": "https://www.thetimes.com/world/europe/article/how-macron-won-french-election-2022-8hgkwktr3",
+      "kicker": "FRENCH ELECTION | ANALYSIS",
+      "date": "2022-04-25",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "Parents rue the reality of ‘broken boomerang’ kids",
+      "url": "https://www.thetimes.com/life-style/property-home/article/parents-rue-the-reality-of-broken-boomerang-kids-056j506gd",
+      "kicker": "",
+      "date": "2022-04-16",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "Justice scorecards show police failing on rape convictions",
+      "url": "https://www.thetimes.com/uk/law/article/justice-scorecards-show-police-failing-on-rape-convictions-lt5w8q9f3",
+      "kicker": "",
+      "date": "2022-03-26",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "Ten days of war through the eyes of Ukrainians",
+      "url": "https://www.thetimes.com/uk/politics/article/ten-days-of-war-through-the-eyes-of-ukrainians-5tkswz50s",
+      "kicker": "INTERACTIVE",
+      "date": "2022-03-05",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "The Ukraine-Russia war explained in maps and charts",
+      "url": "https://www.thetimes.com/world/russia-ukraine-war/article/ukraine-russia-war-map-z6mhzw6np",
+      "kicker": "WAR IN UKRAINE",
+      "date": "2022-02-28",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "Burglars go unpunished with 5% of cases solved",
+      "url": "https://www.thetimes.com/uk/politics/article/burglars-go-unpunished-with-only-5-of-cases-solved-sk0p0wjmv",
+      "kicker": "",
+      "date": "2022-01-30",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "Firms ‘missing out’ on £4.5 billion market of black and Asian consumers",
+      "url": "https://www.thetimes.com/business/markets/article/firms-missing-out-on-4-5-billion-market-of-black-and-asian-consumers-3767m5wvr",
+      "kicker": "",
+      "date": "2022-01-16",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "More than 20 NHS trusts declare ‘critical incidents’ and restrict care",
+      "url": "https://www.thetimes.com/uk/healthcare/article/covid-staffing-crisis-hospitals-nhs-trusts-critical-incidents-care-omicron-psvlj0wjk",
+      "kicker": "CORONAVIRUS",
+      "date": "2022-01-06",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "Intensive care medics redeployed",
+      "url": "https://www.thetimes.com/uk/politics/article/intensive-care-medics-redeployed-as-omicron-puts-hospitals-under-pressure-wq9djhcln",
+      "kicker": "CORONAVIRUS",
+      "date": "2022-01-05",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "Vaccines minister denies booster programme is flatlining",
+      "url": "https://www.thetimes.com/world/us-world/article/vaccines-minister-maggie-throup-denies-booster-programme-is-flatlining-sr5s0ckzh",
+      "kicker": "CORONAVIRUS",
+      "date": "2022-01-04",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "Case numbers hit record high . . . again",
+      "url": "https://www.thetimes.com/uk/healthcare/article/coronavirus-tracker-map-uk-where-the-latest-covid-cases-have-spread-2w05d0rwl",
+      "kicker": "CORONAVIRUS IN NUMBERS",
+      "date": "2021-12-17",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "Christmas in isolation for more than 1m people",
+      "url": "https://www.thetimes.com/uk/healthcare/article/christmas-in-isolation-for-more-than-1m-people-69bh9bq2d",
+      "kicker": "CORONAVIRUS",
+      "date": "2021-12-15",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "$10bn effort to vaccinate Africa falls ‘scandalously’ short",
+      "url": "https://www.thetimes.com/world/africa/article/10bn-effort-to-vaccinate-africa-against-covid-19-falls-scandalously-short-t7r0k0wm6",
+      "kicker": "CORONAVIRUS",
+      "date": "2021-12-01",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "Sentences in fiction are shrinking as art mirrors online life",
+      "url": "https://www.thetimes.com/culture/books/article/short-sentences-in-modern-fiction-reflect-social-media-writing-style-nqq85rppv",
+      "kicker": "",
+      "date": "2021-11-23",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "Health fears and confusion leave millions unjabbed",
+      "url": "https://www.thetimes.com/uk/healthcare/article/covid-health-fears-and-confusion-leave-millions-unjabbed-wv77vb5hf",
+      "kicker": "CORONAVIRUS",
+      "date": "2021-11-06",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "No actual doctor in half of GP appointments",
+      "url": "https://www.thetimes.com/uk/healthcare/article/no-actual-doctor-in-half-of-gp-appointments-according-to-nhs-data-mq6085fdl",
+      "kicker": "",
+      "date": "2021-10-17",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "Haulier backlash over plan to let EU lorries plug gaps in Britain",
+      "url": "https://www.thetimes.com/uk/politics/article/cabotage-rule-relaxation-taking-work-from-british-hgv-drivers-k9pnshwv6",
+      "kicker": "SHORTAGES | GRAPHICS",
+      "date": "2021-10-15",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "A month after freedom day, virus isn’t beaten yet",
+      "url": "https://www.thetimes.com/uk/healthcare/article/a-month-after-freedom-day-covid-is-far-from-beaten-5k3rgvqcb",
+      "kicker": "CORONAVIRUS",
+      "date": "2021-08-20",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "Language drive falters after German lessons shunned",
+      "url": "https://www.thetimes.com/uk/education/article/gcse-results-language-drive-falters-after-german-lessons-shunned-0q258cxfw",
+      "kicker": "EXAM RESULTS",
+      "date": "2021-08-12",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "Pupils celebrate record GCSEs with 30% at top grades",
+      "url": "https://www.thetimes.com/uk/education/article/gcse-results-pupils-celebrate-record-results-with-30-at-top-grades-djj6kcctv",
+      "kicker": "VIDEO",
+      "date": "2021-08-12",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "Girls move ahead after boost from teacher assessment",
+      "url": "https://www.thetimes.com/uk/education/article/girls-surpass-boys-in-a-level-maths-for-the-first-time-z805c5cnf",
+      "kicker": "A-LEVEL RESULTS",
+      "date": "2021-08-10",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "Record year for A-levels sees 45% of entries getting top grades",
+      "url": "https://www.thetimes.com/uk/education/article/a-level-results-2021-8jjttlbwx",
+      "kicker": "VIDEO",
+      "date": "2021-08-10",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "Team GB leads the field at just missing out on a medal",
+      "url": "https://www.thetimes.com/sport/athletics/article/tokyo-2020-team-gb-leads-olympics-field-fourth-place-medal-table-ccz8hrx09",
+      "kicker": "OLYMPICS",
+      "date": "2021-07-30",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "Keep women out of jail, plead charities",
+      "url": "https://www.thetimes.com/uk/law/article/keep-women-out-of-jail-plead-charities-2bbdhz2kb",
+      "kicker": "",
+      "date": "2021-07-24",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "Covid infections surge",
+      "url": "https://www.thetimes.com/uk/healthcare/article/covid-cases-leap-by-three-quarters-in-a-week-2ltfljkfd",
+      "kicker": "CORONAVIRUS",
+      "date": "2021-06-05",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "‘Poorly trained’ police investigating sex crimes",
+      "url": "https://www.thetimes.com/uk/crime/article/poorly-trained-police-sex-crime-inquiries-revealed-8t8qzpn9b",
+      "kicker": "",
+      "date": "2021-06-04",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "Half of adults fully vaccinated — depending on where you live",
+      "url": "https://www.thetimes.com/uk/healthcare/article/half-of-adults-fully-vaccinated-depending-on-where-you-live-ws079k66f",
+      "kicker": "CORONAVIRUS",
+      "date": "2021-06-04",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "Who is winning and when will the other results come out?",
+      "url": "https://www.thetimes.com/uk/politics/article/election-results-2021-539nkg5wl",
+      "kicker": "ELECTION 2021",
+      "date": "2021-05-07",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "Scottish election results in maps and charts",
+      "url": "https://www.thetimes.com/uk/scotland/article/scottish-election-results-maps-charts-2021-ghcld679j",
+      "kicker": "SCOTTISH ELECTIONS",
+      "date": "2021-05-07",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "How recording the UK population has changed",
+      "url": "https://www.thetimes.com/uk/history/article/the-2021-census-how-the-uk-population-has-changed-through-history-0cntdz29z",
+      "kicker": "A VISUAL HISTORY",
+      "date": "2021-03-13",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "Look back at how the property market has changed in the last decade",
+      "url": "https://www.thetimes.com/life-style/property-home/article/house-prices-2010-2020-an-interactive-look-back-at-the-housing-market-last-decade-hph3cldtr",
+      "kicker": "MARKET WATCH",
+      "date": "2021-01-22",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "A programme full of dither and delay",
+      "url": "https://www.thetimes.com/uk/healthcare/article/covid-in-scotland-a-vaccine-programme-full-of-dither-and-delay-9zbq5jnd2",
+      "kicker": "CORONAVIRUS",
+      "date": "2021-01-22",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "What are the new lockdown rules? Test your knowledge with our quiz",
+      "url": "https://www.thetimes.com/uk/politics/article/what-are-the-new-lockdown-rules-test-your-knowledge-with-our-quiz-z7c7w72cr",
+      "kicker": "LOCKDOWN QUIZ",
+      "date": "2021-01-18",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "Walkers frustrated by foot-dragging on restoration of paths",
+      "url": "https://www.thetimes.com/uk/politics/article/walkers-frustrated-by-foot-dragging-on-restoration-of-paths-5kt625mt7",
+      "kicker": "",
+      "date": "2020-12-28",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "Millions on the brink of starvation in Zimbabwe",
+      "url": "https://www.thetimes.com/life-style/food-drink/article/millions-go-hungry-in-zimbabwes-agony-without-end-zb36xpk5z",
+      "kicker": "WORLD AT FIVE",
+      "date": "2020-12-22",
+      "org": "The Times & Sunday Times"
+    },
+    {
+      "title": "How much has the UK government spent on tackling Covid?",
+      "url": "https://www.thetimes.com/uk/healthcare/article/how-much-has-the-uk-government-spent-on-tackling-covid-hb52dmqcw",
+      "kicker": "CORONAVIRUS | IN DEPTH",
+      "date": "2020-11-29",
+      "org": "The Times & Sunday Times"
+    }
+  ]
+}

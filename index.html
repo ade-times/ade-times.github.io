@@ -3,16 +3,82 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Your Name - Portfolio</title>
+    <title>Ademola Bello - Portfolio</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
     <header>
       <h1>Ademola Bello</h1>
-      <p class="summary">I am a journalist and a programmer with a keen interest in using data and visuals to craft compelling stories. Please find a selection of my work below. </p>
+      <p class="summary">I'm a newsroom engineer and data journalist with a background in robotics and data science. I build bespoke editorial tooling, tell data-driven stories, and bridge the gap between product, engineering, and editorial teams. Below is a selection of my work.</p>
     </header>
 
-    <main>
+    <main class="layout">
+      <aside class="more-stories">
+        <h2 class="more-stories__title">More stories</h2>
+        <!-- STORIES:START -->
+        <div class="more-stories__group">
+          <p class="more-stories__outlet">The New York Times</p>
+          <ul class="more-stories__list">
+          <li class="more-stories__item"><a href="https://www.nytimes.com/2026/05/14/business/media/conservative-influencer-security.html">Conservative Influencers Tap a Nonprofit to Pay for Their Security</a><span class="more-stories__date">May 2026</span></li>
+          <li class="more-stories__item"><a href="https://www.nytimes.com/interactive/2025/10/06/world/middleeast/gaza-loss.html">We Tried to Reach Gazans We Interviewed Over Two Years of War. Here’s What Happened to Them.</a><span class="more-stories__date">Oct 2025</span></li>
+          <li class="more-stories__item"><a href="https://www.nytimes.com/interactive/2025/us/elections/2024-election-map-precinct-results.html">An Extremely Detailed Map of the 2024 Election</a><span class="more-stories__date">Jan 2025</span></li>
+          <li class="more-stories__item"><a href="https://www.nytimes.com/2024/07/04/world/europe/uk-election-exit-poll.html">What Makes the U.K. Exit Poll So Trusted</a><span class="more-stories__date">Jul 2024</span></li>
+          <li class="more-stories__item"><a href="https://www.nytimes.com/interactive/2024/07/03/world/europe/uk-election-better-worse.html">The Conservatives Have Run Britain for 14 Years. How Has That Worked Out?</a><span class="more-stories__date">Jul 2024</span></li>
+          </ul>
+        </div>
+        <div class="more-stories__group">
+          <p class="more-stories__outlet">The Times &amp; Sunday Times</p>
+          <ul class="more-stories__list">
+          <li class="more-stories__item"><a href="https://www.thetimes.com/world/us-world/article/americas-battle-with-gun-violence-in-maps-and-charts-q9x5btttn">America’s battle with gun violence in maps and charts</a><span class="more-stories__date">Feb 2023</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/uk/healthcare/article/nhs-waiting-lists-hiding-10m-patients-in-need-of-follow-up-care-d5shnhj3c">10m on ‘hidden’ NHS waiting lists</a><span class="more-stories__date">Aug 2022</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/uk/education/article/social-mobility-warning-after-the-north-south-grade-divide-widens-mg8dvkj00">Social mobility warning after the north-south grade divide widens</a><span class="more-stories__date">Aug 2022</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/uk/education/article/a-level-results-day-2022-latest-9ppbnp8qp">A-level appeals loom as top grades fall</a><span class="more-stories__date">Aug 2022</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/uk/politics/article/which-tory-leadership-candidate-do-you-support-xcpx0nw8w">Which Tory leadership candidate do you support?</a><span class="more-stories__date">Jul 2022</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/uk/politics/article/boris-johnsons-resignation-the-chaos-explained-in-charts-and-graphs-w8pjtpfld">A week of political whiplash, and what’s coming next — explained in charts and graphs</a><span class="more-stories__date">Jul 2022</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/uk/education/article/tiverton-by-election-will-a-leaky-school-roof-hand-the-lib-dems-devons-floating-voters-f7mtnvjn3">Will a leaky school roof hand the Lib Dems Devon’s floating voters?</a><span class="more-stories__date">Jun 2022</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/uk/politics/article/airport-crisis-has-been-a-long-time-coming-after-operators-culled-the-industry-n0lstgb80">Airport crisis ‘a long time coming’ after operators culled industry</a><span class="more-stories__date">Jun 2022</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/uk/healthcare/article/huge-rise-in-patients-turning-to-private-gps-b28jbc8xq">Huge rise in patients turning to private GPs</a><span class="more-stories__date">May 2022</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/world/europe/article/how-macron-won-french-election-2022-8hgkwktr3">How Macron won the French election in maps and charts</a><span class="more-stories__date">Apr 2022</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/life-style/property-home/article/parents-rue-the-reality-of-broken-boomerang-kids-056j506gd">Parents rue the reality of ‘broken boomerang’ kids</a><span class="more-stories__date">Apr 2022</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/uk/law/article/justice-scorecards-show-police-failing-on-rape-convictions-lt5w8q9f3">Justice scorecards show police failing on rape convictions</a><span class="more-stories__date">Mar 2022</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/uk/politics/article/ten-days-of-war-through-the-eyes-of-ukrainians-5tkswz50s">Ten days of war through the eyes of Ukrainians</a><span class="more-stories__date">Mar 2022</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/world/russia-ukraine-war/article/ukraine-russia-war-map-z6mhzw6np">The Ukraine-Russia war explained in maps and charts</a><span class="more-stories__date">Feb 2022</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/uk/politics/article/burglars-go-unpunished-with-only-5-of-cases-solved-sk0p0wjmv">Burglars go unpunished with 5% of cases solved</a><span class="more-stories__date">Jan 2022</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/business/markets/article/firms-missing-out-on-4-5-billion-market-of-black-and-asian-consumers-3767m5wvr">Firms ‘missing out’ on £4.5 billion market of black and Asian consumers</a><span class="more-stories__date">Jan 2022</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/uk/healthcare/article/covid-staffing-crisis-hospitals-nhs-trusts-critical-incidents-care-omicron-psvlj0wjk">More than 20 NHS trusts declare ‘critical incidents’ and restrict care</a><span class="more-stories__date">Jan 2022</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/uk/politics/article/intensive-care-medics-redeployed-as-omicron-puts-hospitals-under-pressure-wq9djhcln">Intensive care medics redeployed</a><span class="more-stories__date">Jan 2022</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/world/us-world/article/vaccines-minister-maggie-throup-denies-booster-programme-is-flatlining-sr5s0ckzh">Vaccines minister denies booster programme is flatlining</a><span class="more-stories__date">Jan 2022</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/uk/healthcare/article/coronavirus-tracker-map-uk-where-the-latest-covid-cases-have-spread-2w05d0rwl">Case numbers hit record high . . . again</a><span class="more-stories__date">Dec 2021</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/uk/healthcare/article/christmas-in-isolation-for-more-than-1m-people-69bh9bq2d">Christmas in isolation for more than 1m people</a><span class="more-stories__date">Dec 2021</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/world/africa/article/10bn-effort-to-vaccinate-africa-against-covid-19-falls-scandalously-short-t7r0k0wm6">$10bn effort to vaccinate Africa falls ‘scandalously’ short</a><span class="more-stories__date">Dec 2021</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/culture/books/article/short-sentences-in-modern-fiction-reflect-social-media-writing-style-nqq85rppv">Sentences in fiction are shrinking as art mirrors online life</a><span class="more-stories__date">Nov 2021</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/uk/healthcare/article/covid-health-fears-and-confusion-leave-millions-unjabbed-wv77vb5hf">Health fears and confusion leave millions unjabbed</a><span class="more-stories__date">Nov 2021</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/uk/healthcare/article/no-actual-doctor-in-half-of-gp-appointments-according-to-nhs-data-mq6085fdl">No actual doctor in half of GP appointments</a><span class="more-stories__date">Oct 2021</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/uk/politics/article/cabotage-rule-relaxation-taking-work-from-british-hgv-drivers-k9pnshwv6">Haulier backlash over plan to let EU lorries plug gaps in Britain</a><span class="more-stories__date">Oct 2021</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/uk/healthcare/article/a-month-after-freedom-day-covid-is-far-from-beaten-5k3rgvqcb">A month after freedom day, virus isn’t beaten yet</a><span class="more-stories__date">Aug 2021</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/uk/education/article/gcse-results-language-drive-falters-after-german-lessons-shunned-0q258cxfw">Language drive falters after German lessons shunned</a><span class="more-stories__date">Aug 2021</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/uk/education/article/gcse-results-pupils-celebrate-record-results-with-30-at-top-grades-djj6kcctv">Pupils celebrate record GCSEs with 30% at top grades</a><span class="more-stories__date">Aug 2021</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/uk/education/article/girls-surpass-boys-in-a-level-maths-for-the-first-time-z805c5cnf">Girls move ahead after boost from teacher assessment</a><span class="more-stories__date">Aug 2021</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/uk/education/article/a-level-results-2021-8jjttlbwx">Record year for A-levels sees 45% of entries getting top grades</a><span class="more-stories__date">Aug 2021</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/sport/athletics/article/tokyo-2020-team-gb-leads-olympics-field-fourth-place-medal-table-ccz8hrx09">Team GB leads the field at just missing out on a medal</a><span class="more-stories__date">Jul 2021</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/uk/law/article/keep-women-out-of-jail-plead-charities-2bbdhz2kb">Keep women out of jail, plead charities</a><span class="more-stories__date">Jul 2021</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/uk/healthcare/article/covid-cases-leap-by-three-quarters-in-a-week-2ltfljkfd">Covid infections surge</a><span class="more-stories__date">Jun 2021</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/uk/crime/article/poorly-trained-police-sex-crime-inquiries-revealed-8t8qzpn9b">‘Poorly trained’ police investigating sex crimes</a><span class="more-stories__date">Jun 2021</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/uk/healthcare/article/half-of-adults-fully-vaccinated-depending-on-where-you-live-ws079k66f">Half of adults fully vaccinated — depending on where you live</a><span class="more-stories__date">Jun 2021</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/uk/politics/article/election-results-2021-539nkg5wl">Who is winning and when will the other results come out?</a><span class="more-stories__date">May 2021</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/uk/scotland/article/scottish-election-results-maps-charts-2021-ghcld679j">Scottish election results in maps and charts</a><span class="more-stories__date">May 2021</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/uk/history/article/the-2021-census-how-the-uk-population-has-changed-through-history-0cntdz29z">How recording the UK population has changed</a><span class="more-stories__date">Mar 2021</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/life-style/property-home/article/house-prices-2010-2020-an-interactive-look-back-at-the-housing-market-last-decade-hph3cldtr">Look back at how the property market has changed in the last decade</a><span class="more-stories__date">Jan 2021</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/uk/healthcare/article/covid-in-scotland-a-vaccine-programme-full-of-dither-and-delay-9zbq5jnd2">A programme full of dither and delay</a><span class="more-stories__date">Jan 2021</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/uk/politics/article/what-are-the-new-lockdown-rules-test-your-knowledge-with-our-quiz-z7c7w72cr">What are the new lockdown rules? Test your knowledge with our quiz</a><span class="more-stories__date">Jan 2021</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/uk/politics/article/walkers-frustrated-by-foot-dragging-on-restoration-of-paths-5kt625mt7">Walkers frustrated by foot-dragging on restoration of paths</a><span class="more-stories__date">Dec 2020</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/life-style/food-drink/article/millions-go-hungry-in-zimbabwes-agony-without-end-zb36xpk5z">Millions on the brink of starvation in Zimbabwe</a><span class="more-stories__date">Dec 2020</span></li>
+          <li class="more-stories__item"><a href="https://www.thetimes.com/uk/healthcare/article/how-much-has-the-uk-government-spent-on-tackling-covid-hb52dmqcw">How much has the UK government spent on tackling Covid?</a><span class="more-stories__date">Nov 2020</span></li>
+          </ul>
+        </div>
+        <p class="more-stories__all"><a href="https://www.nytimes.com/by/ademola-bello">View all on the NYT</a> &middot; <a href="https://www.thetimes.com/profile/ademola-bello">The Times</a></p>
+      <!-- STORIES:END -->
+      </aside>
       <section class="portfolio-grid">
         <div class="grid-item big">
             <p class ="news-org">The New York Times</p>
@@ -78,8 +144,11 @@
     </main>
 
     <footer>
-      <p>&copy; 2024 Ademola Bello</p>
+      <p>&copy; <span id="year">2024</span> Ademola Bello</p>
     </footer>
+    <script>
+      document.getElementById("year").textContent = new Date().getFullYear();
+    </script>
   </body>
 </html>
 

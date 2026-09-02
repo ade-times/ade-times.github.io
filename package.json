@@ -1,0 +1,13 @@
+{
+  "name": "ade-times-portfolio",
+  "version": "1.0.0",
+  "description": "Ademola Bello portfolio site with a monthly-scraped More stories section.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "scrape": "node scripts/scrape-stories.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.62.1"
+  }
+}
